@@ -1,2 +1,2 @@
 #!/bin/bash
- ls -iam
+ ls -al
